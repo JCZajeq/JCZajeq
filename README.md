@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @JCZajeq
-- 👀 I’m interested in the meaning of life
-- 🌱 I’m currently learning c#
+Bruuh
 
 <!---
 JCZajeq/JCZajeq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
